@@ -24,7 +24,7 @@ A tool for remote ADB exploitation in Python2.
 * Get Current Activity
 
 #Credits
-<br> Original code by https://github.com/metachar/PhoneSploit
+<br> Original code by https://github.com/Farz7/phonesploit
 <br>
 
 # PhoneSploit 
@@ -39,7 +39,7 @@ Using open Adb ports we can exploit a device
 
 # HOW TO INSTALL ON WINDOWS
 ```
-git clone https://github.com/cyb3rt3ch/PhoneSploit
+git clone https://github.com/Farz7/phonesploit
 extract adb.rar to the phonesploit directory 
 cd PhoneSploit
 pip2 install colorama
@@ -48,7 +48,7 @@ main.py
 
 # HOW TO INSTALL ON Linux
 ```
-git clone https://github.com/cyb3rt3ch/PhoneSploit
+git clone https://github.com/Farz7/phonesploit
 cd PhoneSploit
 pip2 install colorama
 python2 main_linux.py
