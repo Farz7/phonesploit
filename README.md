@@ -58,7 +58,7 @@ python2 main_linux.py
 First of all, install [brew](https://brew.sh)
 ```
 brew install git python@2
-git clone https://github.com/cyb3rt3ch/PhoneSploit
+git clone https://github.com/Farz7/PhoneSploit
 cd PhoneSploit
 python2 -m pip2 install colorama
 python2 main_linux.py
